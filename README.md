@@ -1,4 +1,4 @@
-[![MasterHead](https://c.tenor.com/3B6fE1zIaHMAAAAd/hotz-hacker.gif)
+[![MasterHead](https://c.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif)
 <h1 align="center">Hi 👋, I'm Akash Dhakad</h1>
 <h3 align="center">Ethical Hacker And Cyber Security Expert</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
