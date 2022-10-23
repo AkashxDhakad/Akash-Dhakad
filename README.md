@@ -1,4 +1,4 @@
-<img src="https://leverageedu.com/blog/wp-content/uploads/2021/08/Hacker.gif" width="1000">
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif" width="1000">
 <h1 align="center">Hi 👋, I'm Akash Dhakad</h1>
 <h3 align="center">Ethical Hacker And Cyber Security Expert</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
