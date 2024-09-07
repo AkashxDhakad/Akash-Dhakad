@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/akash_dhakad" target="blank"><img src="https://img.shields.io/twitter/follow/akash_dhakad?logo=twitter&style=for-the-badge" alt="akash_dhakad" /></a> </p>
 
-- 🔭 I’m currently working on **NetTechIndia**
+- 🔭 I’m currently working on **Amsys Inovative Solution**
 
-- 🌱 I’m currently learning **About OSCP**
+- 🌱 I’m   OSCP Certified**
 
 - 🤝 Hire Me For :- **vulnerability Assessment, Penetration Testing,**
 
